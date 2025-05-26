@@ -18,12 +18,12 @@ Discover open ports on devices within a local network to understand network expo
    ```bash
    nmap -sS 192.168.1.0/24
 4. Recorded Open Ports & Active IP Addresses
-   Noted all devices with open ports.
+   -Noted all devices with open ports.
 5. Analyzed Services
-   Used Nmap documentation and internet research to identify common services running on detected ports.
+   -Used Nmap documentation and internet research to identify common services running on detected ports.
 6. Identified Security Risks
-   Highlighted potential vulnerabilities based on open services.
+   -Highlighted potential vulnerabilities based on open services.
 7. Saved Scan Results
-   Used this command to save scan output:
-   bash
+   -Used this command to save scan output:
+   ```bash
    nmap -sS 192.168.1.0/24 -oN scan_results.txt
