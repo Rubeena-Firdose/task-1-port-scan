@@ -43,4 +43,5 @@ Discover open ports on devices within a local network to understand network expo
 - `README.md` – Documentation of the task
 
 **Conclusion**
--Completed a basic network reconnaissance using Nmap. Gained hands-on experience identifying active devices and open ports on a local network. Developed an understanding of how exposed services can be potential entry points for attackers.
+
+- Completed a basic network reconnaissance using Nmap. Gained hands-on experience identifying active devices and open ports on a local network. Developed an understanding of how exposed services can be potential entry points for attackers.
