@@ -1,6 +1,6 @@
 # task-1-port-scan
 Task 1: Scan Your Local Network for Open Ports.
-Task - Open Port Scanning with Nmap
+->Task - Open Port Scanning with Nmap
 
 **Objective**
 Discover open ports on devices within a local network to understand network exposure and potential risks.
